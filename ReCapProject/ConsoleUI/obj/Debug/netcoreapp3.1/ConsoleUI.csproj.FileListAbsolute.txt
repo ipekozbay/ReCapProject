@@ -1,0 +1,13 @@
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.deps.json
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.runtimeconfig.json
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.runtimeconfig.dev.json
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.dll
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.pdb
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.AssemblyReference.cache
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.AssemblyInfoInputs.cache
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.AssemblyInfo.cs
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.dll
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.pdb
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.genruntimeconfig.cache

@@ -11,4 +11,3 @@ namespace Entities.Concrete
         public string Description { get; set; }
     }
 }
-// Id, BrandId, ColorId, ModelYear, DailyPrice, Description

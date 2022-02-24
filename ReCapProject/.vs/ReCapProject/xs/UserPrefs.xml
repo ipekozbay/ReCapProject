@@ -2,8 +2,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="DataAccess/Concrete/InMemory/InMemoryCarDal.cs">
     <Files>
       <File FileName="ConsoleUI/Program.cs" Line="13" Column="1" />
-      <File FileName="Entity/Concrete/Car.cs" />
-      <File FileName="DataAccess/Concrete/InMemory/InMemoryCarDal.cs" Line="13" Column="12" />
+      <File FileName="Entity/Concrete/Car.cs" Line="7" Column="27" />
+      <File FileName="DataAccess/Concrete/InMemory/InMemoryCarDal.cs" Line="19" Column="34" />
+      <File FileName="DataAccess/Abstract/ICarDal.cs" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,13 +13,21 @@
             <Node name="Business" expanded="True" />
             <Node name="ConsoleUI" expanded="True" />
             <Node name="DataAccess" expanded="True">
-              <Node name="Concrete" selected="True" />
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True">
+                <Node name="InMemory" expanded="True">
+                  <Node name="InMemoryCarDal.cs" selected="True" />
+                </Node>
+              </Node>
             </Node>
             <Node name="Entities" expanded="True">
               <Node name="Concrete" expanded="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -27,7 +36,7 @@
   <MonoDevelop.Ide.ItemProperties.DataAccess FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Entities FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Business FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.ConsoleUI FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

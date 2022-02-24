@@ -1,19 +1,19 @@
-﻿<Properties StartupConfiguration="{32086FF5-37F4-4FF1-9A1E-9B3CD327F81A}|Default">
-  <MonoDevelop.Ide.ItemProperties.ReCapProject FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleUI/Program.cs">
+﻿<Properties StartupConfiguration="{A6F50610-D756-4A92-B8B6-C572920FE055}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccess/Concrete/InMemory/InMemoryCarDal.cs">
     <Files>
       <File FileName="ConsoleUI/Program.cs" Line="13" Column="1" />
-      <File FileName="Entity/Concrete/Car.cs" Line="14" Column="60" />
+      <File FileName="Entity/Concrete/Car.cs" />
+      <File FileName="DataAccess/Concrete/InMemory/InMemoryCarDal.cs" Line="13" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ReCapProject" expanded="True">
             <Node name="Business" expanded="True" />
-            <Node name="ConsoleUI" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="ConsoleUI" expanded="True" />
+            <Node name="DataAccess" expanded="True">
+              <Node name="Concrete" selected="True" />
             </Node>
-            <Node name="DataAccess" expanded="True" />
             <Node name="Entities" expanded="True">
               <Node name="Concrete" expanded="True" />
             </Node>
@@ -27,7 +27,7 @@
   <MonoDevelop.Ide.ItemProperties.DataAccess FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Entities FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Business FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.ConsoleUI FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

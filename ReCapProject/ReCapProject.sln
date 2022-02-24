@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.19
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReCapProject", "ReCapProject\ReCapProject.csproj", "{32086FF5-37F4-4FF1-9A1E-9B3CD327F81A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{35DD8090-EA6F-4385-AC0C-E26947C50160}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{BE771CAF-4EBB-4138-8272-FBCA1587E16B}"
@@ -19,10 +17,6 @@ Global
 		Release|anycpu = Release|anycpu
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{32086FF5-37F4-4FF1-9A1E-9B3CD327F81A}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{32086FF5-37F4-4FF1-9A1E-9B3CD327F81A}.Debug|anycpu.Build.0 = Debug|anycpu
-		{32086FF5-37F4-4FF1-9A1E-9B3CD327F81A}.Release|anycpu.ActiveCfg = Release|anycpu
-		{32086FF5-37F4-4FF1-9A1E-9B3CD327F81A}.Release|anycpu.Build.0 = Release|anycpu
 		{35DD8090-EA6F-4385-AC0C-E26947C50160}.Debug|anycpu.ActiveCfg = Debug|Any CPU
 		{35DD8090-EA6F-4385-AC0C-E26947C50160}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{35DD8090-EA6F-4385-AC0C-E26947C50160}.Release|anycpu.ActiveCfg = Release|Any CPU

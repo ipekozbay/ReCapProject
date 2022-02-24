@@ -7,9 +7,14 @@
   <ItemGroup>
     <None Remove="Abstract\" />
     <None Remove="Concrete\" />
+    <None Remove="Concrete\InMemory\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Abstract\" />
     <Folder Include="Concrete\" />
+    <Folder Include="Concrete\InMemory\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entity\Entities.csproj" />
   </ItemGroup>
 </Project>

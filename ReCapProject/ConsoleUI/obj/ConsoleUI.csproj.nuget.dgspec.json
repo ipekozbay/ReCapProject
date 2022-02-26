@@ -4,6 +4,65 @@
     "/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/ConsoleUI.csproj": {}
   },
   "projects": {
+    "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Business/Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Business/Business.csproj",
+        "projectName": "Business",
+        "projectPath": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Business/Business.csproj",
+        "packagesPath": "/Users/ozbay/.nuget/packages/",
+        "outputPath": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ozbay/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/DataAccess.csproj"
+              },
+              "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Entity/Entities.csproj": {
+                "projectPath": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Entity/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +84,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Business/Business.csproj": {
+                "projectPath": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Business/Business.csproj"
+              },
+              "/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/DataAccess.csproj"
+              },
+              "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Entity/Entities.csproj": {
+                "projectPath": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Entity/Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -49,6 +118,114 @@
           "warn": true,
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/DataAccess.csproj",
+        "packagesPath": "/Users/ozbay/.nuget/packages/",
+        "outputPath": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ozbay/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Entity/Entities.csproj": {
+                "projectPath": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Entity/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Entity/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Entity/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Entity/Entities.csproj",
+        "packagesPath": "/Users/ozbay/.nuget/packages/",
+        "outputPath": "/Users/ozbay/Desktop/ReCapProject/ReCapProject/Entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ozbay/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
               "privateAssets": "all"
             }
           },

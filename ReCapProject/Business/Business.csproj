@@ -12,4 +12,8 @@
     <Folder Include="Abstract\" />
     <Folder Include="Concrete\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entity\Entities.csproj" />
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+  </ItemGroup>
 </Project>

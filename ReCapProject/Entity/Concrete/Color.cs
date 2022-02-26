@@ -3,8 +3,7 @@ namespace Entities.Concrete
 {
     public class Color
     {
-        public Color()
-        {
-        }
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }

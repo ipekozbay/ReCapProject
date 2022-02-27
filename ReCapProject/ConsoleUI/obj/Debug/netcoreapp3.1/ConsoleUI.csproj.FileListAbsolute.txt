@@ -11,3 +11,10 @@
 /Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.dll
 /Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.pdb
 /Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.genruntimeconfig.cache
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/bin/Debug/netcoreapp3.1/Business.dll
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/bin/Debug/netcoreapp3.1/DataAccess.dll
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/bin/Debug/netcoreapp3.1/Business.pdb
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.CopyComplete

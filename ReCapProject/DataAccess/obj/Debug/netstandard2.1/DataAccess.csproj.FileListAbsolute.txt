@@ -1,0 +1,13 @@
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.deps.json
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/bin/Debug/netstandard2.1/Entities.dll
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/bin/Debug/netstandard2.1/Entities.pdb
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.AssemblyReference.cache
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfoInputs.cache
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfo.cs
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CopyComplete
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.dll
+/Users/ozbay/Desktop/ReCapProject/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.pdb

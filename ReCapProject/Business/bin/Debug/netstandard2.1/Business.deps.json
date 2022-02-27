@@ -1,21 +1,12 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v3.1",
+    "name": ".NETStandard,Version=v2.1/",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "ConsoleUI/1.0.0": {
-        "dependencies": {
-          "Business": "1.0.0",
-          "DataAccess": "1.0.0",
-          "Entities": "1.0.0"
-        },
-        "runtime": {
-          "ConsoleUI.dll": {}
-        }
-      },
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
       "Business/1.0.0": {
         "dependencies": {
           "DataAccess": "1.0.0",
@@ -41,11 +32,6 @@
     }
   },
   "libraries": {
-    "ConsoleUI/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Business/1.0.0": {
       "type": "project",
       "serviceable": false,
